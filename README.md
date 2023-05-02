@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rehan Ahmed
+- 👀 I’m interested in working as a partner in different projects 
+- 🌱 I’m currently learning OOPs
+- 💞️ I’m looking to collaborate on projects related to java & Python 
+- 📫 How to reach me rehanahmed22175255@gmail.com
